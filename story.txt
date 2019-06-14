@@ -1,1 +1,2 @@
-
+This a file that will help me learn how to use GitHub
+I think we're gonna make a website
